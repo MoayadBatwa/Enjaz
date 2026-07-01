@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "689379082026",
+    "project_id": "enjaz-66bbe",
+    "storage_bucket": "enjaz-66bbe.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:689379082026:android:56487e12a2416e9375a853",
+        "android_client_info": {
+          "package_name": "com.example.enjaz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCc4ij9GOhPaXZoCVOZxW2NwXV3qpbJMc8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
