@@ -351,24 +351,12 @@ Features include:
 
 ---
 
-# ⚙️ Setup
-
-```bash
-git clone https://github.com/flutter-gg-2026/capstone-ll-m_group.git
-
-flutter pub get
-
-flutter run
-```
-
----
-
 # 👨‍💻 Team Members
 
 | Name     | Position          |
 | -------- | ----------------- |
-| Manhal Alsubaie | Flutter Developer & UI/UX |
 | Moayad Batwa | Flutter Developer |
+| Manhal Alsubaie | Flutter Developer & UI/UX |
 | Moaid Alshamarani | Flutter Developer  |
 
 ---
